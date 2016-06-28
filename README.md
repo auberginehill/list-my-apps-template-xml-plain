@@ -50,7 +50,7 @@
 
 #### Screenshot
 
-<img class="screenshot" title="screenshot" alt="screenshot" height="100%" width="100%" align="absmiddle" src="https://github.com/auberginehill/list-my-apps-template-xml-plain/blob/master/example.png">
+<img class="screenshot" title="screenshot" alt="screenshot" height="40%" width="40%" align="absmiddle" src="https://github.com/auberginehill/list-my-apps-template-xml-plain/blob/master/example.png">
 
 
 
