@@ -63,7 +63,7 @@
 
 #### Screenshot
 
-<img class="screenshot" title="screenshot" alt="screenshot" height="40%" width="40%" src="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-plain/master/example.png">
+<img class="screenshot" title="screenshot" alt="screenshot" height="40%" width="40%" src="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-plain/master/example_3.png">
 
 
 
